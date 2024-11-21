@@ -47,17 +47,6 @@ Simulation tools for **synchrotron radiation wave optics**, built on the Synchro
 
 ---
 
-## 📊 **Our GitHub Stats**
-Here are some insights into the languages and activities from our organization's repositories:
-
-### Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnls-ids&layout=compact&theme=radical)
-
-### Contributions Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lnls-ids&theme=react-dark)
-
----
-
 ## 🤝 **Collaborate With Us**
 We are open to collaboration and knowledge sharing. Whether you're a scientist, engineer, or developer interested in synchrotron light sources, diagnostics, or radiation simulation tools, we welcome contributions to our repositories.  
 
